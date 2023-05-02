@@ -28,3 +28,5 @@ time.sleep(5)
 ##posting
 postarea = driver.find_element("xpath", '//span[text()= "Start a post"]').click()
 time.sleep(5)
+
+#testing
